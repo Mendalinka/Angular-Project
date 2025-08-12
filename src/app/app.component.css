@@ -1,0 +1,10 @@
+.box{
+    display: flex;
+}
+
+.box_for_header_and_main{
+    display: flex;
+    flex-direction: column;
+   
+}
+

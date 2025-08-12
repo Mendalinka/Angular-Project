@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CS Artemio Drawn';
+    src: url('CSArtemioDrawn-Regular.woff2') format('woff2'),
+        url('CSArtemioDrawn-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
